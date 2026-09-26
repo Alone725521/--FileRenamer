@@ -74,12 +74,10 @@
 
 ### 🖼️ 界面预览
 
-> 建议在此处放一张截图：`docs/screenshot-main.png`
+![主界面](https://beeimg.us.ci/temp/b9128c9ae42a926d1b30c8eac99c4981.png)
 
-```markdown
-![主界面](docs/screenshot-main.png)
-![快捷键帮助](docs/screenshot-shortcuts.png)
-```
+![快捷键说明界面](https://beeimg.us.ci/temp/69714514c85908490ef3a26048b419c5.png)
+
 
 ## 📦 安装
 
