@@ -74,9 +74,9 @@
 
 ### 🖼️ 界面预览
 
-![主界面](https://beeimg.us.ci/temp/b9128c9ae42a926d1b30c8eac99c4981.png)
+<img src="http://i0.hdslb.com/bfs/new_dyn/379479798bd7b73f5dda570c3c1437073493136699492610.png" style="zoom:67%;" />
 
-![快捷键说明界面](https://beeimg.us.ci/temp/69714514c85908490ef3a26048b419c5.png)
+<img src="http://i0.hdslb.com/bfs/new_dyn/3245103a88511acda4d697bb0c5a055b3493136699492610.png" style="zoom:67%;" />
 
 
 ## 📦 安装
